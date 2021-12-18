@@ -16,3 +16,5 @@ api.json
 # Binaries
 build/
 *.obj
+
+.import/
